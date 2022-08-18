@@ -1,1 +1,1 @@
-[![Vulnerabilities](https://sonarqube.service.common.peapod.com/api/project_badges/measure?project=PFSOrderMgrWeb&metric=vulnerabilities)](https://sonarqube.service.common.peapod.com/dashboard?id=PFSOrderMgrWeb)
+
